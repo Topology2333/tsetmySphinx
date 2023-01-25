@@ -15,7 +15,7 @@ author = 'Std'
 
 extensions = [
 	'recommonmark',
-	'sphinx_markdown_tables'
+	'sphinx-markdown-tables'
 ]
 
 templates_path = ['_templates']
