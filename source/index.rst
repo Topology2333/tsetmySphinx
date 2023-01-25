@@ -6,6 +6,8 @@
 Welcome to My_Std's documentation!
 ==================================
 
+hi
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
